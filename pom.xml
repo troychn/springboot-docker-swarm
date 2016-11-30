@@ -11,7 +11,7 @@
     <modules>
         <module>springboot_myBatis</module>
         <module>springboot_service</module>
-        <module>springboot_contoller</module>
+        <module>springboot_controller</module>
         <module>springboot_docker</module>
     </modules>
 
