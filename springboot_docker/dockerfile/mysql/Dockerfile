@@ -6,7 +6,6 @@ MAINTAINER troylc <troylc@163.com>
 
 # 拷贝当前目录下的device.sql,exceute-sql.sh,docker-entrypoint.sh到根目录下
 COPY city-db.sql /docker-entrypoint-initdb.d/city-db.sql
-COPY city-data.sql /docker-entrypoint-initdb.d/city-data.sql
 COPY my.cnf /etc/mysql/my.cnf
 
 #修改.sh文件的权限

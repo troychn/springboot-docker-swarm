@@ -24,7 +24,7 @@
                         <configuration>
                             <tasks>
                                 <copy todir="${basedir}/dockerfile/bootService">
-                                    <fileset includes="*.jar" dir="../springboot_contoller/target"></fileset>
+                                    <fileset includes="*.jar" dir="../springboot_controller/target"></fileset>
                                 </copy>
                             </tasks>
                         </configuration>

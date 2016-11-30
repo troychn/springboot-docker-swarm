@@ -36,10 +36,10 @@ spring:
         testOnReturn: false
         poolPreparedStatements: true
         maxOpenPreparedStatements: 20
-        schema: city-db.sql
-        data: city-data.sql
-        continue-on-error: false
-        initialize: true
+#        schema: city-db.sql
+#        data: city-data.sql
+#        continue-on-error: false
+#        initialize: true
 
 
 
