@@ -15,7 +15,7 @@ spring:
 #        type: com.alibaba.druid.pool.DruidDataSource
 #        driver-class-name: com.microsoft.sqlserver.jdbc.SQLServerDriver
         name: citydb
-        url: jdbc:mysql://mysql:3306/citydb?useUnicode=true&autoReconnect=true&failOverReadOnly=false&characterEncoding=UTF-8&useSSL=fasle
+        url: jdbc:mysql://mysql:3306/citydb?useUnicode=true&autoReconnect=true&failOverReadOnly=false&characterEncoding=UTF-8&useSSL=false
         username: root
         password: talent
         # 使用druid数据源
