@@ -24,7 +24,7 @@
 <body>
 <div class="wrapper">
     <div class="middle">
-        <h1 style="padding: 50px 0 20px;">国家(地区)列表</h1>
+        <h1 style="padding: 50px 0 20px;">国家(地区)列表-2.0版本</h1>
 
         <form action="${request.contextPath}/countries" method="post">
             <table class="gridtable" style="width:100%;">

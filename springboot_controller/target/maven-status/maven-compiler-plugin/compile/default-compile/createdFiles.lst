@@ -1,5 +1,0 @@
-com\troylc\controller\city\CityController.class
-com\troylc\controller\country\CountryController.class
-com\troylc\controller\user\UserInfoController.class
-com\troylc\config\WebMvcConfig.class
-com\troylc\Application.class
